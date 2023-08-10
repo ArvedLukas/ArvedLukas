@@ -49,9 +49,9 @@ Hi, I'm Arved – an up-and-coming coder and content creator. From age twelve, I
 
 ### 📊 Stats
 
-![Arved's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArvedLukas&show_icons=true&theme=react)
+![Arved's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArvedLukas&show_icons=true&theme=github_dark)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ArvedLukas&theme=react&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ArvedLukas&theme=github_dark&border_radius=4.5) -->
 
 #
 
