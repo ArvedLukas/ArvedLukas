@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Gamer/Creator)`**
 
-Hi, I'm Arvedus – an up-and-coming coder and content creator. From age twelve, I've been hooked on coding. While still in school, I'm crafting coding projects, whether it's Discord bots or Minecraft clients. My YouTube channel "[Arvedus][youtube]" though small, is growing. Thanks for joining me on this coding and content journey!
+Hi, I'm Arved – an up-and-coming coder and content creator. From age twelve, I've been hooked on coding. While still in school, I'm crafting coding projects, whether it's Discord bots or Minecraft clients. My YouTube channel "[Arvedus][youtube]" though small, is growing. Thanks for joining me on this coding and content journey!
 
    <p align="left">
       <a href="https://www.youtube.com/c/arvedus?sub_confirmation=1">
