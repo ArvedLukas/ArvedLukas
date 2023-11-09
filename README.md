@@ -40,7 +40,7 @@ Hi, I'm Arved – an up-and-coming coder and content creator. From age twelve, I
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Schmeckt MONTE's brandneuer GÖNRGY?](https://ytcards.demolab.com/?id=FMhflJId01E&title=Schmeckt+MONTE%27s+brandneuer+G%C3%96NRGY%3F&lang=en&timestamp=1690563610&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=497 "Schmeckt MONTE's brandneuer GÖNRGY?")](https://www.youtube.com/watch?v=FMhflJId01E)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/arvedus?sub_confirmation=1)
